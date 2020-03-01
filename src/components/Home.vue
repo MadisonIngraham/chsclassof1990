@@ -10,8 +10,7 @@
         </div>
         <div class="d-flex flex-column align-items-center">
           <h3>Coming Soon!</h3>
-          <p>Friday, July 31st and Saturday, Saturday August 1st</p>
-          <br />
+          <h5>Friday, July 31st and Saturday, Saturday August 1st</h5>
           <p>Stay tuned for 2020 reunion details.</p>
         </div>
       </div>
